@@ -9,7 +9,7 @@
 #   Licensed Under GNU GPLv3
 
 # APPLICATION DESCRIPTION
-#   An application to control Robot Arms & other servo-based devies using a Raspberry Pi!
+#   An application to control Robot Arms & other servo-based devices using a Raspberry Pi!
 #   Turns a Raspberry Pi computer into a servo controller using a joystick or gamepad!
 #   Supports any number of controllers, axis, or servos. 
 #   Allows for creating multiple limb / controller pairs.
